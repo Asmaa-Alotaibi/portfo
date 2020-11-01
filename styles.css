@@ -1,0 +1,28 @@
+h1 {
+  font-size: xx-large;
+  color: rgb(238, 12, 12);
+  border: 0ch;
+  border-radius: 20%;
+  background-color: rgb(175, 152, 197);
+}
+
+.the-img {
+  height: "400 px";
+  border: rgb(103, 71, 134);
+  border-style: ridge;
+  padding: 0.5cm;
+  background-color: rgb(169, 224, 114);
+  border-radius: 0em;
+}
+
+ul {
+  list-style-type: square;
+  font-size: xx-large;
+  color: rgb(238, 12, 12);
+  border: 0ch;
+  border-radius: 20%;
+  background-color: rgb(175, 152, 197);
+}
+.card {
+  margin: 10px;
+}
